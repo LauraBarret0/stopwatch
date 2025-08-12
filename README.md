@@ -6,7 +6,7 @@ Ele conta com as funções de **Iniciar**, **Pausar** e **Resetar** o tempo, exi
 ---
 
 ## 📸 Demonstração
-![Preview do Cronômetro](./assets/preview.)
+![Preview do Cronômetro](./assets/preview.png)
 
 
 
