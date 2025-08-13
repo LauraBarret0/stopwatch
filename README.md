@@ -29,10 +29,10 @@ Ele conta com as funções de **Iniciar**, **Pausar** e **Resetar** o tempo, exi
 ```plaintext
 cronometro/
 │
-├── index.html         # Estrutura HTML
-├── style.css          # Estilo do cronômetro
-├── script.js          # Lógica em JavaScript
-└── assets/            # Imagens e ícones (opcional)
+├── index.html         
+├── style.css          
+├── script.js          
+└── assets/            
 ````
 
 ---
@@ -40,7 +40,7 @@ cronometro/
 ## 📜 Como usar
 1. Clone o repositório:
   ```bash
-git clone https://github.com/seu-usuario/cronometro.git
+git clone https://github.com/LauraBarret0/stopwatch.git
    ```
 
 2. Abra o arquivo index.html no navegador
